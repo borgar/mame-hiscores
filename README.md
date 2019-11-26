@@ -1,3 +1,8 @@
+Notice: This script has been updated and [bundled as a plugin](https://github.com/mamedev/mame/tree/master/plugins/hiscore) with the official release of MAME. Any issues or request for support should be done through [MAME's issues](https://github.com/mamedev/mame/issues) or support channels.
+
+---
+
+
 # MAME highscore saving
 
 This uses MAME's [built-in Lua scripting](https://github.com/mamedev/mame/blob/master/docs/luaengine.md) to provide high-score saving with the standard *hiscore.dat* file just as older versions did before the feature was removed.
